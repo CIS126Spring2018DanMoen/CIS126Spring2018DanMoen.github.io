@@ -1,1 +1,30 @@
+body {
+ background-color : #4796f7; <!-- blue -->
+ font-size : 1.5em ;
+}
 
+h1 {
+  color : #000000;
+  font-family: Helvetica;
+}
+
+h4 {
+  color : #e83c30 ;
+  background-color: #f7f020;
+  font-family: Helvetica;
+  <!-- will relocate over the H1 title -->
+p {
+  font-family: Arial;
+  
+}
+
+a href
+
+nav {
+ <!-- width: auto;
+ <!-- float: top;
+ <!-- text-color: #e83c30 <-- one of these two
+ <!-- color : #e83c30 <--- 
+ <!-- background-color : #ffffff ; -->
+
+}
