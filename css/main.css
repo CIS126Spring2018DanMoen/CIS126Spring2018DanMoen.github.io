@@ -6,14 +6,14 @@ body {
 h1 {
   color : #000000;
   font-family: Helvetica;
-  font-style: italics;
+  font-style: italic;
 }
 
 h4 {
   color : #e83c30 ;
   background-color: #f7f020;
   font-family: Helvetica;
-  font-style: italics;
+  font-style: italic;
   <!-- will relocate over the H1 title -->
 p {
   font-family: Arial;
